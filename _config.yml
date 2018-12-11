@@ -3,4 +3,4 @@ title: Homepage
 description: Hi, and welcome to my GitHub page.  This page will very soon contain some information on my academic background.
 
 
-logo: <img src="1.png">
+logo: "1.png"
